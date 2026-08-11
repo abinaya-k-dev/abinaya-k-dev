@@ -1,5 +1,14 @@
 <p align="center">
-  <img src="banner.svg" alt="Abinaya K - banner" width="800" />
+  <a href="https://abinaya-k-dev.github.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+      <img alt="Abinaya K - terminal banner" src="light.svg" width="100%" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <img src="dist/github-jet.svg" alt="Abinaya K - contribution heatmap" width="100%" />
 </p>
 
 <p align="center">
